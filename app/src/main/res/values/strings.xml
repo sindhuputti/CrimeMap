@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CirmeMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string-array name="types">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
